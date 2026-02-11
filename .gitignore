@@ -1,4 +1,15 @@
+# De Intellij
+.idea/
+*.iml
+
+# De Visual Studio
 Java/.cph
 
-.idea/
+# Carpetas de Bould
 out/
+target/
+build/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
